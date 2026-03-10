@@ -76,18 +76,22 @@ plt.show()
 ## Output
 
 ### Input image and grayscale image
-<img width="638" height="445" alt="image" src="https://github.com/user-attachments/assets/df5d9255-955f-4509-ad09-9e7f2badbbaa" />
-<img width="645" height="444" alt="image" src="https://github.com/user-attachments/assets/086c43df-95e4-4ab9-a58e-d58b4634f70a" />
+<img width="374" height="507" alt="image" src="https://github.com/user-attachments/assets/fc241721-b67a-4c8b-8acc-873c6a610230" />
+<img width="374" height="506" alt="image" src="https://github.com/user-attachments/assets/cf75c31f-9041-4175-9796-4dcf95b82033" />
+
+
 
 <br>
 
 ### Canny Edge detector output
-<img width="640" height="442" alt="image" src="https://github.com/user-attachments/assets/11f99c42-c5c6-4d62-9675-0aa1b46e45d2" />
+<img width="372" height="504" alt="image" src="https://github.com/user-attachments/assets/a18589a9-b510-4a35-8a40-15f7e1366765" />
+
 
 <br>
 
 ### Display the result of Hough transform
-<img width="647" height="444" alt="image" src="https://github.com/user-attachments/assets/d96bf5cf-ea78-45ac-a8cd-83ea1e1bef14" />
+<img width="372" height="507" alt="image" src="https://github.com/user-attachments/assets/aa5724cd-3b61-431a-9852-bd9b66d7aad7" />
+
 
 <br>
 
