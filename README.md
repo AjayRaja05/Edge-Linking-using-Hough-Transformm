@@ -1,4 +1,6 @@
-# EDGE LINKING HOUGH TRANSFORM
+# Edge-Linking-using-Hough-Transformm
+## DEVELOPED BY : AJAYRAJA RATHINAM T
+## REG NO : 212224240006
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
 
